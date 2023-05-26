@@ -1,4 +1,4 @@
 Verse1
 Chorus1
 Verse2
-Chorus2
+Chorus1
