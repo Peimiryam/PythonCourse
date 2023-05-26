@@ -1,0 +1,85 @@
+commit 1ee199974dcbd8027abe485b28bbbb09c889f3af
+Author: Miriam Peluso <miriam.peluso6@gmail.com>
+Date:   Wed May 24 19:19:18 2023 +0100
+
+    updated file song.txt
+
+commit 03ba6453e23446a1ac05ff68a5c622916a52fe0c
+Author: Miriam Peluso <miriam.peluso6@gmail.com>
+Date:   Wed May 24 19:13:55 2023 +0100
+
+    Revert "removed one line from Chorus1.txt"
+    
+    This reverts commit ad814814cdd022e8b65d45d754b06b61540c3d0f.
+
+commit ad814814cdd022e8b65d45d754b06b61540c3d0f
+Author: Miriam Peluso <miriam.peluso6@gmail.com>
+Date:   Wed May 24 19:13:27 2023 +0100
+
+    removed one line from Chorus1.txt
+
+commit 5760532cae9ae798d58c1835cae43477752895d1
+Author: Miriam Peluso <miriam.peluso6@gmail.com>
+Date:   Wed May 24 19:10:09 2023 +0100
+
+    replace text in file song.txt - sed command seems not working
+
+commit e9ea6dee1bb96a569d87b6804154ba4e3cdf5a1e
+Author: Miriam Peluso <miriam.peluso6@gmail.com>
+Date:   Wed May 24 19:01:03 2023 +0100
+
+    added content in Chorus2.txt
+
+commit 313fa28f075a2b000c9b6877e3fd05b3e1ed44f9
+Author: Miriam Peluso <miriam.peluso6@gmail.com>
+Date:   Wed May 24 18:59:55 2023 +0100
+
+    added second Chorus2.txt
+
+commit bf9cc88ae485dfb584dce4715ea4dcd33c5826f0
+Author: Miriam Peluso <miriam.peluso6@gmail.com>
+Date:   Wed May 24 18:58:43 2023 +0100
+
+    added second verse to verse2.txt
+
+commit 2d03d8798ddc25148823ac7e84888bce74ffdf3c
+Author: Miriam Peluso <miriam.peluso6@gmail.com>
+Date:   Wed May 24 18:57:37 2023 +0100
+
+    added new file verse2.txt
+
+commit cfd8976d0de8e50781cb1d9dec504cecc0edd76b
+Author: Miriam Peluso <miriam.peluso6@gmail.com>
+Date:   Wed May 24 18:56:29 2023 +0100
+
+    added chorus to Chorus1.txt
+
+commit 19d880307a441f6123c9c42474a92c7bec49de77
+Author: Miriam Peluso <miriam.peluso6@gmail.com>
+Date:   Wed May 24 18:54:46 2023 +0100
+
+    add Chorus1.txt
+
+commit 72bfd046b531a3abbd8c7359824946ba91b8baca
+Author: Miriam Peluso <miriam.peluso6@gmail.com>
+Date:   Wed May 24 18:51:32 2023 +0100
+
+    add verse 1 to the verse1.txt file
+
+commit 988389df10d5df5547598747d74993d1eaecf17e
+Author: Miriam Peluso <miriam.peluso6@gmail.com>
+Date:   Wed May 24 18:49:08 2023 +0100
+
+    add file verse1
+
+commit 70fdda932dc7612f2183cafeae841e578b165b75
+Author: Miriam Peluso <miriam.peluso6@gmail.com>
+Date:   Wed May 24 18:47:33 2023 +0100
+
+    added song lirycs in file
+
+commit 97f47ecc957070d445f95eb5d7cdbd7fccd8e9ab
+Author: Miriam Peluso <miriam.peluso6@gmail.com>
+Date:   Wed May 24 18:43:36 2023 +0100
+
+    add file song.txt
